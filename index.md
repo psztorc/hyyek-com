@@ -7,13 +7,14 @@ Rough Draft
 
 Hyyek is my contingency plan, if Drivechain fails to activate on Bitcoin Core.
 
-### How is this different from previous Bitcoin hard forks?
+## How is this different from previous Bitcoin hard forks?
 
 1. The hard fork is NOT competing on: development; usage; being listed on an exchange; or the "Bitcoin" name.
 2. This HF doesn't actually change *any* rules, at all. It just resets the difficulty once, to force a second network to appear.
 3. It will be announced well in advance, allowing plenty of time for research.
 4. It has been *designed to compete* (see [GARP](http://www.truthcoin.info/blog/garp/) and [IMEX](http://www.truthcoin.info/blog/imex/)).
 
+## Other Questions
 
 ### How many developers do you have? ### {#devs}
 
