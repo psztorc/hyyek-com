@@ -7,18 +7,20 @@ Rough Draft
 
 Hyyek is my contingency plan, if Drivechain fails to activate on Bitcoin Core.
 
-## How is this different from previous Bitcoin hard forks?
+It is different from other hard forks in that:
 
-1. The hard fork is NOT competing on: development; usage; being listed on an exchange; or the "Bitcoin" name.
-2. This HF doesn't actually change *any* rules, at all. It just resets the difficulty once, to force a second network to appear.
-3. It will be announced well in advance, allowing plenty of time for research.
+1. It does NOT compete on: development; usage; being listed on an exchange; or the "Bitcoin" name.
+2. It doesn't actually change *any* consensus rules. It just resets the difficulty one time (in order to force a second network to appear).
+3. It will be announced well in advance.
 4. It has been *designed to compete* (see [GARP](http://www.truthcoin.info/blog/garp/) and [IMEX](http://www.truthcoin.info/blog/imex/)).
 
-## Other Questions
+## FAQ
 
 ### How many developers do you have? ### {#devs}
 
-This project is not competing on development. The non-Drivechain codebase will be identical to Bitcoin Core. It will be identical when it launches, and at all points in the future. So this project should be indistinguishable from Bitcoin Core in every respect. Including all future Core inventions such as: sighash-noinput, Confidential Transactions, etc. As soon as these are merged into Core, we will just click the merge button ourselves.
+This project is not competing on development.
+
+The non-Drivechain parts of the codebase will always be identical to Bitcoin Core. When/if future inventions are merged into Core (such as: sighash-noinput, Confidential Transactions, etc.), we will just click the merge button ourselves.
 
 So, to answer the question, myself + CryptAxe + a few people , PLUS all of the Bitcoin Core developers.
 
