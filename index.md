@@ -49,6 +49,7 @@ Drivechain's security assumptions would require Core to add it via a MASF (miner
 If the project is good, the right partners will find *it*.
 
 <!--
+
 ### 5. Are Hard Forks Evil?
 
 Opinions on them differ. [I've argued](http://www.truthcoin.info/blog/against-the-hard-fork/) that they set a horrible precendent. [Others](https://twitter.com/spencernoon/status/933135469520531456) have [different](https://www.youtube.com/watch?v=6-ms68Ircus) views.
