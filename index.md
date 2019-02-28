@@ -3,16 +3,15 @@ layout: page
 title: Hyyek
 ---
 
-Rough Draft
+( Rough Draft )
 
 Hyyek is a hard fork of Bitcoin Core. It allows users to spend to Drivechain scripts.
 
 Unlike previous hard forks:
 
 1. It does NOT compete on: development; usage; being listed on an exchange; or the "Bitcoin" name.
-2. It doesn't actually change *any* consensus rules. It just resets the difficulty one time (in order to force a second network to appear). On *that* new network, Drivechain immediately activates as a soft fork (as it could have done on Core today).
+2. It doesn't actually change *any* consensus rules. It just resets the difficulty one time (in order to force a second network to appear). On *that* new network, Drivechain immediately activates as a soft fork.
 3. It will be announced well in advance.
-4. It has been *designed to compete* (see [GARP](http://www.truthcoin.info/blog/garp/) and [IMEX](http://www.truthcoin.info/blog/imex/)).
 
 ## FAQ
 
@@ -28,7 +27,7 @@ So, all Bitcoin Core developers are working on this project, whether they want t
 
 The project isn't competing on users, either.
 
-The replay protection is user-controlled opt-in. So it is off by default which means that, if no one does anything, every single transaction in the next Bitcoin Core block, will be immediately replayed into the Hyyek mempool and end up in the next Hyyek block.
+The replay protection is [user-controlled opt-in](http://www.truthcoin.info/blog/garp/). So it is off by default which means that, if no one does anything, every single transaction in the next Bitcoin Core block, will be immediately replayed into the Hyyek mempool and end up in the next Hyyek block.
 
 So, all BTC users are transacting on this blockchain, whether they want to or not.
 
@@ -40,9 +39,11 @@ So they will probably be forced to list the coin, whether they like it or not.
 
 ### 4. Won't Bitcoin Core just copy this idea if it is successful? (If so, then what is the value proposition of this coin?)
 
-There is a good chance that they will be unable to.
+There is a good chance that the answer is no.
 
 Drivechain's security assumptions would require Core to add it via a MASF (miner-activated soft fork). But Core miners would be unlikely to go along with this, because if they believe in Drivechain they could instead just switch to mining Hyyek. The PoW-algos are the same, and Hyyek will be more profitable to mine because its network difficulty will be lower. And Hyyek would be identical to Core, because its codebase would be exactly the same, and its userbase would also be the same -- the only exceptions being those users who intentionally split their coins in order to bet *against* Drivechain.
+
+[More](http://www.truthcoin.info/blog/imex/).
 
 ### 5. How do you plan to succeed without partnering with a billionaire / eccentric Australian?
 
