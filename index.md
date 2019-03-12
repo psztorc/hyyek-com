@@ -45,9 +45,16 @@ Drivechain's security assumptions would require Core to add it via a MASF (miner
 
 [More](http://www.truthcoin.info/blog/imex/).
 
-### 5. How do you plan to succeed without partnering with a billionaire / eccentric Australian?
+### 5. If you want to leave BTC, then why not "build on top of" BCH (or BSV)?
+
+BCH had a [clumsy launch](http://www.truthcoin.info/blog/garp/#ii-bitcoin-cash), has [fewer users](https://bitinfocharts.com/comparison/transactions-btc-bch.html#1y), a much smaller marketcap, and less R&D. Its software has been altered significantly, and unnecessarily. These qualities act to repel people who are strategic, sociable, sophisticated, technically-minded, and prudent. The decision to support larger blocks did *not* solve the scalability dispute -- it just picked one side over the other. The decision to hard fork, was anti-cooperative and set the stage for endless fracturing of the community (ie, BSV).
+
+BSV has all of these problems, only worse.
+
+### 6. How do you plan to succeed without partnering with Blockstream / Bitcoin.com / an eccentric Australian?
 
 If the project is good, the right partners will find *it*.
+
 
 <!--
 
