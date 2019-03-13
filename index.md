@@ -37,17 +37,20 @@ This project is not competing on "getting listed", either. If exchanges do not l
 
 So they will probably be forced to list the coin, whether they like it or not.
 
-### 4. Won't Bitcoin Core just copy this idea if it is successful? (If so, then what is the value proposition of this coin?)
+### 4. If Hyyek succeeds, then Drivechain's value will have been demonstrated to the public. But surely, at that point, BTC would soft fork to add Drivechain (or a Drivechain-like technology). And this would probably kill Hyyek (since Hyyek can't compete with BTC's network effects). So, how can this project have any upside?
 
-There is a good chance that the answer is no.
+I have [taken steps](http://www.truthcoin.info/blog/imex/) to protect the upside of the project.
 
-Drivechain's security assumptions would require Core to add it via a MASF (miner-activated soft fork). But Core miners would be unlikely to go along with this, because if they believe in Drivechain they could instead just switch to mining Hyyek. The PoW-algos are the same, and Hyyek will be more profitable to mine because its network difficulty will be lower. And Hyyek would be identical to Core, because its codebase would be exactly the same, and its userbase would also be the same -- the only exceptions being those users who intentionally split their coins in order to bet *against* Drivechain.
+For example, I try to arrange for BTC mining to cease, at the exact moment that Hyyek succeeds. This is encouraged via: identical PoW-algos; a lower Hyyek difficulty; and the fact that financial losses are only experienced by those BTC-users who split their coins and intentionally bet *against* Drivechain.
 
-[More](http://www.truthcoin.info/blog/imex/).
+In general, Drivechain's security assumptions require Core to add it via a MASF (miner-activated soft fork). But if BTC miners believed in Drivechain, they could instead just switch to mining Hyyek.
+
 
 ### 5. If you want to leave BTC, then why not "build on top of" BCH (or BSV)?
 
-BCH had a [clumsy launch](http://www.truthcoin.info/blog/garp/#ii-bitcoin-cash), has [fewer users](https://bitinfocharts.com/comparison/transactions-btc-bch.html#1y), a much smaller marketcap, and less R&D. Its software has been altered significantly, and unnecessarily. These qualities act to repel people who are strategic, sociable, sophisticated, technically-minded, and prudent. The decision to support larger blocks did *not* solve the scalability dispute -- it just picked one side over the other. The decision to hard fork, was anti-cooperative and set the stage for endless fracturing of the community (ie, BSV).
+BCH had a [clumsy launch](http://www.truthcoin.info/blog/garp/#ii-bitcoin-cash), and has [fewer users](https://bitinfocharts.com/comparison/transactions-btc-bch.html#1y), a lower marketcap, and less R&D. Its codebase has undergone frivolous modification, pointlessly imperiling BCH's ability to take advantage of future BTC innovation. These five undesirable qualities act to repel people who are, respectfully: strategic, sociable, sophisticated, technically-minded, and prudent.
+
+The strategy of "hard forking to please some users at the expense of others" is anti-cooperative, and ultimately unsustainable.
 
 BSV has all of these problems, only worse.
 
