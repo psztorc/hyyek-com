@@ -5,13 +5,15 @@ title: Hyyek
 
 ( Rough Draft )
 
-Hyyek is a hard fork of Bitcoin Core. It allows users to spend to Drivechain scripts.
+Hyyek is a hard fork of Bitcoin Core. It allows users to spend to [Drivechain](http://www.drivechain.info/) scripts.
 
 Unlike previous hard forks:
 
 1. It does NOT compete on: development; usage; being listed on an exchange; or the "Bitcoin" name.
 2. It doesn't actually change *any* consensus rules. It just resets the difficulty one time (in order to force a second network to appear). On *that* new network, Drivechain immediately activates as a soft fork.
 3. It will be announced well in advance.
+
+
 
 ## FAQ
 
